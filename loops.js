@@ -13,5 +13,5 @@ return 'done';
 }
 
 function maybeTrue(){
-  return Math.random()
+  return Math.random() >= 0.50;
 }
