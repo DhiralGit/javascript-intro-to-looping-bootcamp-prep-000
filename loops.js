@@ -4,3 +4,4 @@ function forLoop(Array) {
   }
   return Array;
 }
+
