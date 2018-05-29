@@ -5,4 +5,6 @@ function forLoop(Array) {
   return Array;
 }
 
-function whileLoop(n)
+function whileLoop(n){
+  console.log(--n)
+}
