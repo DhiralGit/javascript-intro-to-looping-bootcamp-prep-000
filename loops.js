@@ -5,4 +5,4 @@ function forLoop(Array) {
   return Array;
 }
 
-function whileLoop()
+function whileLoop(n)
