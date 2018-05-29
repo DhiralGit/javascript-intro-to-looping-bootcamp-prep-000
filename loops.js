@@ -1,6 +1,3 @@
-function forLoop(i) {
-  return 
-for (var i = 0; i < 25; i++) {
-  console.log("I am "+ i  +" strange loop");
-}
+for (let i = 0; i < 25; i++) {
+ 
 }
