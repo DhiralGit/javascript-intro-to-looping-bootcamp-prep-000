@@ -6,6 +6,6 @@ function forLoop(Array) {
 }
 
 function whileLoop(n){
-  while 
+  while(n<0)
   console.log(--n)
 }
